@@ -1,11 +1,11 @@
 ### Introduction
-**Vue Lumen Starter** offers to you to connect to the **Lumen (PHP Micro-Framework By Laravel)** through the api using **Vue.js**.
+**LARAVEL - LUMEN STARTER API** use it to fast start your lumen api with **Lumen (PHP Micro-Framework By Laravel)** on the backend  and the Adorable **Vue.js** on the frontend.
 
-### Screenshots
-![Screenshot](https://i.imgur.com/TQFdYNI.png)
-![Screenshot](https://i.imgur.com/cIIyCD0.png)
 
-### Included
+### Frameworks/libraraies Included
+ * Lumen
+ * JWT
+ * I18n
  * Vue Router
  * Vuex
  * Axios
@@ -26,7 +26,7 @@
 * Validation (FrontEnd & BackEnd)
 * Tailwind Admin / Auth Templates
 
-### Installation
+### How to "Installation"
 * Clone the repo: ``git clone https://github.com/gentritabazi01/Vue-Lumen-Starter.git`` to your local path.
 * Make sure you have **npm** installed to your machine.
 * Navigate to {PROJECT-PATH}/back where {PROJECT-PATH} is the path where you cloned project.
@@ -36,10 +36,14 @@
 * Run: ``npm install``.
 * Run: ``npm run serve``.
 
+
 ### Credits
 * Tailwind Admin Template (https://github.com/davidgrzyb/tailwind-admin-template)
 * Tailwind Login & Register Template (https://github.com/davidgrzyb/tailwind-auth-template)
 
 ### Author
-* Name: **Gentrit Abazi**
-* Email: **gentritabazi01@gmail.com**
+* Name: **Mbark Akerkouch**
+* Email: **dialyy@gmail.com**
+
+### TODO
+* Add docker setup to "up -d" and run :zap:  :v:
