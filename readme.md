@@ -27,7 +27,7 @@
 * Tailwind Admin / Auth Templates
 
 ### How to "Installation"
-* Clone the repo: ``git clone https://github.com/gentritabazi01/Vue-Lumen-Starter.git`` to your local path.
+* Clone the repo: ``git clone https://github.com/stevensam0109/Laravel-Vuejs-Rest-Api.git`` to your local path.
 * Make sure you have **npm** installed to your machine.
 * Navigate to {PROJECT-PATH}/back where {PROJECT-PATH} is the path where you cloned project.
 * Run ``copy .env.example .env`` and after file .env is copied you need to start to edit database configuration into `.env` file.
@@ -42,8 +42,8 @@
 * Tailwind Login & Register Template (https://github.com/davidgrzyb/tailwind-auth-template)
 
 ### Author
-* Name: **Mbark Akerkouch**
-* Email: **dialyy@gmail.com**
+* Name: **stevensam0109**
+* Email: **steven.sam.0109@outlook.com**
 
 ### TODO
 * Add docker setup to "up -d" and run :zap:  :v:
